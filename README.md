@@ -6,7 +6,7 @@
 
 2、[【hot.css】移动端布局解决方案][2]
 
-3、[BFC，IFC，GFC，FFC的特性][3]
+3、 [BFC，IFC，GFC，FFC的特性][3]
 
 
   [1]: https://github.com/chokcoco/hint.css
