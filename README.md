@@ -20,10 +20,18 @@
 
 
 
+### 常用组件组合
+
+1、使用(canvas缩放组件)[6]+边界检测(Math.min+Math.max取值)
+
+
+
   [1]: https://github.com/chokcoco/hint.css
   [2]: https://github.com/imochen/hotcss
   [3]: https://yq.aliyun.com/articles/130553?utm_content=m_26273
   [4]:https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665513566&idx=1&sn=a2688cadbe9c8042ff1abbdf04a8bd5e&chksm=80d67a1db7a1f30b28b93ed2ab29edfbf982b780433e4bfd178e3cc52cb1f9100cc8f923db4f#rd
   [5]: http://www.jianshu.com/p/63569386befc
+  [6]: https://github.com/rombdn/img-touch-canvas
+
 
 
